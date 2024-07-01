@@ -6,7 +6,10 @@
 
 **3. Test on Postman:**
 
-<img width="711" alt="image" src="https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/6ca67230-4f77-42e2-81d3-e998d5e834a0">
+Retrieving one record:
+<img width="960" alt="image" src="https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/d8cf8fb5-9f01-4503-a425-aa94d48109e1">
+
+
 
 Inserting one record:
 ![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/803fe2ea-1003-4e40-a33a-2b93d8b1896f)
