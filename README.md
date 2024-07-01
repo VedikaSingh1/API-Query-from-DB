@@ -16,12 +16,12 @@ Inserting one record:
 
 
 
-Updating one record:
+Deleting one record:
 ![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/1955f5d1-2382-49f4-8fd5-9ca9b56b3b35)
 
 
 
-Deleting one record:
+Updating one record:
 ![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/3931f361-85c3-4c2f-883f-66844366ac39)
 
 
