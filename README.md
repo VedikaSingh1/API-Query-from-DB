@@ -27,7 +27,8 @@ Updating one record:
 
 
 Inserting multiple records:
-![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/64e4fc94-e2bb-4e30-8454-ced99ff43247)
+
+![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/d53385dd-a416-4911-a36d-4c66e6bcf94d)
 
 
 
@@ -39,7 +40,7 @@ Retrieving multiple records:
 
 Updating multiple records:
 
-![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/d53385dd-a416-4911-a36d-4c66e6bcf94d)
+![image](https://github.com/VedikaSingh1/API-Query-from-DB/assets/144081124/64e4fc94-e2bb-4e30-8454-ced99ff43247)
 
 
 
